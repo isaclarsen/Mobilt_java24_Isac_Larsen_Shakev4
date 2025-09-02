@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shake</string>
+
+    <string-array name="sensor_delays">
+        <item>Normal</item>
+        <item>UI</item>
+        <item>Game</item>
+    </string-array>
+</resources>
